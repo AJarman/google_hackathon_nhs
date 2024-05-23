@@ -17,7 +17,7 @@ from google.cloud import storage
 from IPython.display import display, Markdown
 
 from typing import Optional, Union, Dict, List
-import getpass
+
 from google.cloud import storage
 
 
